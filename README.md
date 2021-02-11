@@ -1,4 +1,4 @@
-### Hi there 👋
+Shyam Sundar Bharathi's repository.
 
 <!--
 **Shyam-Sundar-Bharathi/Shyam-Sundar-Bharathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
